@@ -2,6 +2,12 @@
 
 A modern, full-stack todo application built with Next.js, React, and Convex. This application features a beautiful UI with drag-and-drop functionality, real-time updates, and a seamless user experience.
 
+## Live Demo
+
+Experience the application live at [elvis-todo.vercel.app](https://elvis-todo.vercel.app)
+
+![Elvis Todo App Screenshot](https://elvis-todo.vercel.app/image.png)
+
 ## Features
 
 - 🎨 Modern UI with Tailwind CSS and custom components
@@ -75,7 +81,7 @@ npm run dev
 
 - Use functional components exclusively
 - Avoid using `any` type - always provide proper TypeScript types
-- Utilize components from `components/jj-ui` or `components/ui` for UI elements
+- Utilize components from `components/ui` for UI elements
 - Follow the existing project structure for new features
 
 ## Available Scripts
