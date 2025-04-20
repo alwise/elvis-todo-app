@@ -31,7 +31,7 @@ A modern, full-stack todo application built with Next.js, React, and Convex. Thi
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/elvis-kemevor/elvis-todo-app.git
 cd elvis-todo-app
 ```
 
