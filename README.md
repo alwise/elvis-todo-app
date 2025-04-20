@@ -64,7 +64,6 @@ npm run dev
 
 - `app/` - Next.js app router pages and layouts
 - `components/` - Reusable UI components
-  - `jj-ui/` - Custom UI components
   - `ui/` - Base UI components
 - `hooks/` - Custom React hooks
 - `providers/` - React context providers
